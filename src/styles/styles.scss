@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+a {
+  color: purple;
+  display: block;
+  text-decoration: none;
+}
+
+.Button {
+  color: purple;
+  background-color: lightskyblue;
+  padding: 16px;
+  border-radius: 8px;
+  width: 120px;
+  text-align: center;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+

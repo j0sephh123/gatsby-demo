@@ -1,0 +1,14 @@
+.Layout {
+  margin: 0 auto;
+  max-width: 650px;
+  padding: 0 1rem;
+  background-color: #fefefe;
+  .Nav {
+    margin: 8px 0;
+    padding: 8px 0;
+    background-color: lightblue;
+    a {
+      padding: 0 16px;
+    }
+  }
+}
