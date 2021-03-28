@@ -26,6 +26,7 @@ const Nav = () => {
 			<Link to="/">Index</Link>
 			<Link to="/about">About</Link>
 			<Link to="/partners">Partners</Link>
+			<Link to="/languages">Languages</Link>
 		</div>
 	)
 }
